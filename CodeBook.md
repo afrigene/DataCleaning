@@ -5,14 +5,11 @@ The purpose of the codebook is to document the tidy dataset that is produced by 
 The structure of the Tidy Dataset is as follows:
 
 COLUMN      DATA TYPE      DESCRIPTION
-subjectID       integer              Identify person who collected the raw data (1 to 30)
-activity          character          Specify the activity that was performed. There are 6 
-                                              activities (1:LAYING, 2:SITTING, 3:STANDING, 
-                                              4:WALKING, 5:WALKING UPSTAIRS, 6: WALKING 
-                                              DOWNSTAIRS)
-variable        number              Each variable contains the value of a single feature.
-                                              The Tidy Dataset includes the mean and standard
-                                              deviation of several features listed below.
+subjectID   integer        Identify person who collected the raw data (1 to 30)
+activity    character      Specify the activity that was performed. There are 6 activities (1:LAYING, 2:SITTING,
+                           3:STANDING,4:WALKING, 5:WALKING UPSTAIRS, 6: WALKING DOWNSTAIRS)
+variable    number         Each variable contains the value of a single feature. The Tidy Dataset includes the mean and
+                           standard deviation of several features listed below.
 
 VARIABLES
 
