@@ -1,4 +1,4 @@
-DataCleaning Project Assignment.                  Submitted by: Joe DeWitt                          Date:10/26/2014
+DataCleaning Project Assignment by Joe DeWitt.
 ============
 
 Contains the project assignment files for the Getting and Cleaning R course hosted by Coursera.
